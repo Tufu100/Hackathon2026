@@ -1,2 +1,2 @@
 # Hackathon2026
-U of U hackathon 2026
+USU hackathon 2026
